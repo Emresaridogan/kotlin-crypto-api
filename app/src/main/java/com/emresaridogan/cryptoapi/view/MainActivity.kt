@@ -1,7 +1,8 @@
-package com.emresaridogan.cryptoapi
+package com.emresaridogan.cryptoapi.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.emresaridogan.cryptoapi.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
